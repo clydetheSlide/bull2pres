@@ -11,5 +11,5 @@ The file structure to find those external files is declared in the script.
 
 There is a simple GUI built with TKinter. 
 When you start up the script without any arguments it look like this
-![GUI startup](startUp.png)
+![GUI startup](startupScreen.jpg)
 There are several options available for Communion liturgy. 
